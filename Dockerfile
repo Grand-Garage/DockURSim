@@ -37,7 +37,7 @@ RUN \
     # Make sure we are in the root
     cd / && \ 
     # Download URSim Linux tar.gz
-    curl https://s3-eu-west-1.amazonaws.com/ur-support-site/54411/URSim_Linux-5.4.2.76197.tar.gz -o URSim-Linux.tar.gz && \
+    curl https://s3-eu-west-1.amazonaws.com/ur-support-site/71480/URSim_Linux-5.8.2.10297.tar.gz -o URSim-Linux.tar.gz && \
     # Extract tarball
     tar xvzf URSim-Linux.tar.gz && \
     #Remove the tarball
