@@ -6,7 +6,7 @@ Runs URSim in a docker container with the Polyscope Interface accessible via a b
 
 This is a suitable alternative to using the URSim virtual machine image on windows.
 
-**Current URSim Version: 5.4.2.76197**
+**Current URSim Version: 5.8.2.10297**
 
 ## Example Usage
 
